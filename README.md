@@ -6,7 +6,7 @@ Hi There
   <p>Check this on live</p>
 </div>
 <h1 align="center">
-     <a href="https://juyelhushen.netlify.app/">👉Amanfolio</a>
+     <a href="">👉Amanfolio</a>
      </h1>
 <p align="center">
   A simple Developer portfolio of built with <a href="https://angular.io/" target="_blank">Angular</a>
