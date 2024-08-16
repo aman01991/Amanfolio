@@ -9,8 +9,7 @@ Hi There
      <a href="">👉Amanfolio</a>
      </h1>
 <p align="center">
-  A simple Developer portfolio of built with <a href="https://angular.io/" target="_blank">Angular</a>
-  <!-- and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a> -->
+  A simple Developer portfolio of built with <a href="https://angular.io/" target="_blank">Angular</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
 ![demo](./src/assets/img/demo.png)
@@ -37,7 +36,7 @@ Yes, you can fork this repo.
 
 ---
 
-# Joefolio
+# Amanfolio
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
 
