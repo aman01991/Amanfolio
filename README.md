@@ -6,10 +6,11 @@ Hi There
   <p>Check this on live</p>
 </div>
 <h1 align="center">
-     <a href="https://juyelhushen.netlify.app/">👉Joefolio</a>
+     <a href="https://juyelhushen.netlify.app/">👉Amanfolio</a>
      </h1>
 <p align="center">
-  A simple Developer portfolio of built with <a href="https://angular.io/" target="_blank">Angular</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  A simple Developer portfolio of built with <a href="https://angular.io/" target="_blank">Angular</a>
+  <!-- and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a> -->
 </p>
 
 ![demo](./src/assets/img/demo.png)
