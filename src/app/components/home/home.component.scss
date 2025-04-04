@@ -178,6 +178,7 @@
           font-family: var(--font-mono);
           line-height: 1.5;
           -webkit-line-clamp: 5;
+          line-clamp: 5;
           display: -webkit-box;
           -webkit-box-orient: vertical;
           text-overflow: ellipsis;
@@ -352,6 +353,7 @@
         p {
           font-size: 18px;
           -webkit-line-clamp: 4;
+          line-clamp: 4;
           line-height: 1.6;
         }
       }
